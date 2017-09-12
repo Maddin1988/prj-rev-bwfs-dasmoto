@@ -1,0 +1,44 @@
+/* design general html */
+html {
+  font-family: Helvetica, sans-serif;
+}
+
+/* design all h2 */
+h2 {
+  font-family: Helvetica, sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  color:white;
+}
+
+/* design class headline */
+.headline {
+  background-image: url("pattern.jpeg");
+  font-family: Helvetica, sans-serif;
+  font-size: 100px;
+  font-weight: bold;
+  color:khaki;
+  text-align: center;
+}
+
+/* design h2, id hdbrushes */
+h2#hdbrushes{
+  background-color: mediumspringgreen;
+}
+
+/* design h2, id hdframes */
+h2#hdframes{
+  background-color: lightcoral;
+}
+
+/* design h2, id hdpaint */
+h2#hdpaint{
+  background-color: skyblue;
+}
+
+/* design span, class price */
+span.price{
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  color: blue;
+}
